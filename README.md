@@ -1,4 +1,4 @@
-# libmansys
+# Library Management System Windows Form C# Project
 Masters in Computer Application <br/>
 Semester 4 <br/>
 Advanced Web Technologies <br/>
