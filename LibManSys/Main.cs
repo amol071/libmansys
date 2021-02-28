@@ -16,5 +16,12 @@ namespace Library
         {
             InitializeComponent();
         }
+
+        //Category Button
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form1 category = new Form1();
+            category.Show();
+        }
     }
 }

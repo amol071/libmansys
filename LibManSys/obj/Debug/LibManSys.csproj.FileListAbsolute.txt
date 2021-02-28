@@ -7,3 +7,4 @@ D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibFinal\Lib
 D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibFinal\LibManSys\LibManSys\obj\Debug\LibManSys.csproj.GenerateResource.Cache
 D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibFinal\LibManSys\LibManSys\obj\Debug\LibManSys.exe
 D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibFinal\LibManSys\LibManSys\obj\Debug\LibManSys.pdb
+D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibFinal\LibManSys\LibManSys\obj\Debug\Library.Form1.resources
