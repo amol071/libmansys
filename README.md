@@ -1,6 +1,6 @@
 # libmansys
-Masters in Computer Application
-Semester 4
-Advanced Web Technologies
-Prof. Deepa Honrao
-Team Members - Amol Vyavaharkar (MC1958), Sonali Darade (MC19--) and Bhavye Gautam (MC19--)
+Masters in Computer Application <br/>
+Semester 4 <br/>
+Advanced Web Technologies <br/>
+Prof. Deepa Honrao <br/>
+Team Members - Amol Vyavaharkar (MC1958), Sonali Darade (MC19--) and Bhavye Gautam (MC19--) <br/>
