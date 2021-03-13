@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LibManSys;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,6 +23,12 @@ namespace Library
         {
             Form1 category = new Form1();
             category.Show();
+        }
+        //author button
+        private void button2_Click(object sender, EventArgs e)
+        {
+            author a= new author();
+            a.Show();
         }
     }
 }

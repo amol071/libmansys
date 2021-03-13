@@ -8,3 +8,14 @@ D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibFinal\Lib
 D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibFinal\LibManSys\LibManSys\obj\Debug\LibManSys.exe
 D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibFinal\LibManSys\LibManSys\obj\Debug\LibManSys.pdb
 D:\Amol\Study Stuffs\MCA\Semester 4\Advanced Web Technology\Project\LibFinal\LibManSys\LibManSys\obj\Debug\Library.Form1.resources
+D:\Sonali\MCA\Semester 4\AWT Project\libmansys\LibManSys\bin\Debug\LibManSys.exe.config
+D:\Sonali\MCA\Semester 4\AWT Project\libmansys\LibManSys\obj\Debug\LibManSys.exe
+D:\Sonali\MCA\Semester 4\AWT Project\libmansys\LibManSys\obj\Debug\LibManSys.pdb
+D:\Sonali\MCA\Semester 4\AWT Project\libmansys\LibManSys\bin\Debug\LibManSys.exe
+D:\Sonali\MCA\Semester 4\AWT Project\libmansys\LibManSys\bin\Debug\LibManSys.pdb
+D:\Sonali\MCA\Semester 4\AWT Project\libmansys\LibManSys\obj\Debug\LibManSys.csprojResolveAssemblyReference.cache
+D:\Sonali\MCA\Semester 4\AWT Project\libmansys\LibManSys\obj\Debug\Library.Form1.resources
+D:\Sonali\MCA\Semester 4\AWT Project\libmansys\LibManSys\obj\Debug\Library.Main.resources
+D:\Sonali\MCA\Semester 4\AWT Project\libmansys\LibManSys\obj\Debug\LibManSys.Properties.Resources.resources
+D:\Sonali\MCA\Semester 4\AWT Project\libmansys\LibManSys\obj\Debug\LibManSys.csproj.GenerateResource.Cache
+D:\Sonali\MCA\Semester 4\AWT Project\libmansys\LibManSys\obj\Debug\LibManSys.author.resources

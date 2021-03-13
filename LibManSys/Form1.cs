@@ -19,7 +19,7 @@ namespace Library
             load();
         }
 
-        SqlConnection con = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=slibrary;User ID=amol;Password=amol");
+        SqlConnection con = new SqlConnection("Data Source=DESKTOP-7C4GOGU\\SQLEXPRESS;Initial Catalog=slibrary;Integrated Security=True");
         SqlCommand cmd;
         SqlDataReader dr;
 
@@ -123,6 +123,11 @@ namespace Library
                 txtstatus.Text = dr[2].ToString();
             }
             con.Close();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
